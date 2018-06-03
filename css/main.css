@@ -74,6 +74,10 @@ a:before {
   transition: all 0.3s ease-in-out 0s;
 }
 
+a.tickets {
+  font-size: 1.2em;
+}
+
 a:hover:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
